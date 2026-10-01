@@ -1,21 +1,25 @@
-# 🔐 Python Password Generator
+# Student Expense Tracker 💰
 
-A simple Python project that generates random passwords.
+A simple Python-based expense tracker for students.
 
 ## Features
 
-- Generate random passwords
-- Choose password length
-- Uses letters, numbers and symbols
-- Beginner-friendly Python project
+- Add expenses
+- View expenses
+- Calculate total spending
+- Category-based expense recording
+- Simple command-line interface
 
 ## Technologies Used
 
 - Python
-- Random module
-- String module
+- Lists
+- Dictionaries
+- Loops
+- Functions
+- User Input
 
 ## How to Run
 
 ```bash
-python password_generator.py
+python expense_tracker.py
